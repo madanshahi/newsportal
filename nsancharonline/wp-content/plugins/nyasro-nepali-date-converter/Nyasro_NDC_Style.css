@@ -1,0 +1,91 @@
+	.Nyasro_NDC,.Nyasro_NDC .Ny_h4,.Nyasro_NDC div,.Nyasro_NDC input,.Nyasro_NDC select,.Nyasro_NDC form,.Nyasro_NDC option,.Nyasro_NDC .ny_submit{
+		padding:0;
+		margin:0;
+		font-size:12px;
+		font-family:arial;
+		line-height:16px;
+		}
+	.Nyasro_NDC{
+		width:230px;
+		border:1px solid #ddd;
+		border-radius:5px;
+		background-color:#f9f9f9;
+		}
+	.Nyasro_NDC .Ny_h4{
+		padding:7px 5px;
+		background-color:#eee;
+		border-bottom:1px solid #ddd;
+		color:#336699;
+		font-weight:bold;
+		}
+	.Nyasro_NDC .Ny_icon{
+		background:#EEE url(icon.png) no-repeat 4px 6px;
+		padding-left:26px;
+		}
+	.Nyasro_NDC .Ny_dateBox{
+		padding:10px;
+		}
+	.Nyasro_NDC .Ny_dateBox select{
+		padding:3px;
+		height:26px;
+		line-height:26px;
+		margin-right:3px;
+		border:1px solid #ddd;
+		}
+	.Nyasro_NDC .Ny_dateBox option{
+		padding-left:5px;
+		}
+	.Nyasro_NDC select.ny_year{
+		width:60px;
+		}
+	.Nyasro_NDC select.ny_month{
+		width:80px;
+		}
+	.Nyasro_NDC select.ny_day{
+		width:50px;
+		}
+	.Nyasro_NDC .Ny_dateBox .ny_subDiv{
+		padding:5px 3px;
+		height:16px;
+		background-color:#e0e0e0;
+		width:114px;
+		text-align:center;
+		border:1px solid #fff;
+		border-color:#ddd #ccc #ccc #ddd;
+		border-radius:20px;
+		margin:5px auto 0;
+		}
+	.Nyasro_NDC .Ny_dateBox .ny_submit{
+		background:none;
+		color:#555;
+		font-weight:bold;
+		border:none;
+		cursor:pointer;
+		padding:0 3px;
+		text-align:center;
+		width:104px;
+		height:16px;
+		}
+	.Nyasro_NDC .ny_subDiv:hover{
+		background-color:#47a;
+		}
+	.Nyasro_NDC .ny_submit:hover{
+		color:#abc;
+		}
+	.Nyasro_NDC form{
+		padding:7px 0;
+		height:58px;
+		text-align:center;
+		margin-left:2px;
+		}
+		
+	.Nyasro_NDC  .Ny_nepDate,.Nyasro_NDC  .Ny_engDate{
+		border:1px solid #eee;
+		border-width:1px;
+		border-color:#eee #f9f9f9 #ddd;
+		}
+   .Nyasro_NDC .copyright,.Nyasro_NDC .copyright a{
+     text-align:center;
+     font-size:10px;
+     color:#ccc;
+     }
